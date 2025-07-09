@@ -1,1 +1,2 @@
 # odin-recipes
+This project has a home page with links to each recipe page. Each recipe page has a link back to the home page along with a photo, a description, an ingredients list, and a list of steps. I used several different html tags, including headers, paragraphs, lists, anchors, and images. This is my first "project" so I still have a lot to learn.
